@@ -1,0 +1,34 @@
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\SellingComputerShop\bin\Debug\DocumentDistance.exe.config
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\SellingComputerShop\bin\Debug\input.txt
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\SellingComputerShop\bin\Debug\Sample.txt
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\SellingComputerShop\bin\Debug\DocumentDistance.exe
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\SellingComputerShop\bin\Debug\DocumentDistance.pdb
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\SellingComputerShop\obj\Debug\DocumentDistance.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\SellingComputerShop\obj\Debug\DocumentDistance.exe
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\SellingComputerShop\obj\Debug\DocumentDistance.pdb
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csprojResolveAssemblyReference.cache
+E:\COURSES\Algorithms\Algorithms'19 Materials\Lectures\[ALG'19.SW] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+C:\Users\Asser Ayman\Desktop\Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+C:\Users\Asser Ayman\Desktop\Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+C:\Users\Asser Ayman\Desktop\Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+C:\Users\Asser Ayman\Desktop\Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+C:\Users\Asser Ayman\Desktop\Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+C:\Users\Asser Ayman\Desktop\Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csprojAssemblyReference.cache
+C:\Users\Asser Ayman\Desktop\Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+C:\Users\Asser Ayman\Desktop\Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+C:\Users\Asser Ayman\Desktop\Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
+D:\Year 3\Year 3 Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\complete.txt
+D:\Year 3\Year 3 Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\Sample.txt
+D:\Year 3\Year 3 Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe.config
+D:\Year 3\Year 3 Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.exe
+D:\Year 3\Year 3 Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\bin\Debug\DocumentDistance.pdb
+D:\Year 3\Year 3 Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csprojAssemblyReference.cache
+D:\Year 3\Year 3 Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.csproj.CoreCompileInputs.cache
+D:\Year 3\Year 3 Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.exe
+D:\Year 3\Year 3 Semester One\Algorithms\Lectures\[ALG'19] Lec1 - Intro + Analysis I\Materials\[TEMPLATE] Document Distance\DocumentDistance\obj\Debug\DocumentDistance.pdb
